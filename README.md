@@ -1,8 +1,5 @@
-![Github licence](http://img.shields.io/badge/license-MIT-yellowgreen.svg)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 ## ecommerce-backend
-by Daniella Ferrufino
+by Daniella Ferrufino ![Github licence](http://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
 ## Description
 This is a node.js backend for an e-commerce site utilizing mysql2, sequalize, and express.
