@@ -2,7 +2,7 @@
 by Daniella Ferrufino ![Github licence](http://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
 ## Description
-This is a node.js backend for an e-commerce site utilizing mysql2, sequalize, and express.
+This is a Node.js back-end for an e-commerce site utilizing MySQLl2, Sequalize, and Express. Taking a working Express.js API and configuring it to use Sequelize in order to interact with MySQL database.
 
 ## Installation
 Execute npm install to download the required dependencies: [dotenv](https://www.npmjs.com/package/dotenv), [express](https://www.npmjs.com/package/express), [mysql2](https://www.npmjs.com/package/mysql2), and [sequelize](https://www.npmjs.com/package/mysql2.).
