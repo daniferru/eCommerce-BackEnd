@@ -1,12 +1,15 @@
 {
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "mysql2": "^2.1.0",
-    "sequelize": "^6.31.1"
+    "dotenv": "^8.6.0",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.32.0",
+    "tall": "^8.0.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "watch": "nodemode seeds",
+    "seed": "node seeds/index.js"
   },
   "name": "ecommerce-backend",
   "version": "1.0.0",
@@ -16,7 +19,7 @@
     "url": "git+https://github.com/daniferru/eCommerce-BackEnd.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/daniferru/eCommerce-BackEnd/issues"
   },

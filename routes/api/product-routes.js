@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { attempt } = require('lodash');
+// const { attempt } = require('lodash');
 const { Product, Category, Tag, ProductTag } = require('../../models');
 
 // The `/api/products` endpoint
