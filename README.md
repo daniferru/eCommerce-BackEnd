@@ -10,5 +10,7 @@ Execute npm install to download the required dependencies: [dotenv](https://www.
 ## Usage
 Once all of the dependencies are installed, run 'node server.js' to create the tables for the database, run 'npm run seed' to seed the database, and run 'server.js' to execute backend functions.
 
+<img src="/images/insomniaecom.PNG">
+
 ## License
 Licensed under the MIT License
